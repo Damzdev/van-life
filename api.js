@@ -9,8 +9,10 @@ import {
 	where,
 } from 'firebase/firestore/lite'
 
+const api = import.meta.env.API
+
 const firebaseConfig = {
-	apiKey: 'AIzaSyDeO17QtYTXvOKMZPFetmPrdnq8_zX6gH0',
+	apiKey: api,
 	authDomain: 'caravanlife-b05f6.firebaseapp.com',
 	projectId: 'caravanlife-b05f6',
 	storageBucket: 'caravanlife-b05f6.appspot.com',
