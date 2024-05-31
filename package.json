@@ -1,20 +1,22 @@
 {
-  "name": "Scrim-s0m8ui2av0",
-  "description": "https://v2.scrimba.com/learn-react-router-6-c06/~01c",
-  "scripts": {
-    "start": "vite",
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
-  },
-  "dependencies": {
-    "react": "18.2.0",
-    "react-dom": "18.2.0",
-    "react-router-dom": "6.4.3",
-    "miragejs": "0.1.46",
-    "vite": "latest"
-  },
-  "devDependencies": {
-    "@vitejs/plugin-react": "*"
-  }
+	"name": "vanlifeapp",
+	"description": "",
+	"scripts": {
+		"start": "vite",
+		"dev": "vite",
+		"build": "vite build",
+		"preview": "vite preview"
+	},
+	"dependencies": {
+		"firebase": "^10.12.2",
+		"miragejs": "0.1.46",
+		"react": "18.2.0",
+		"react-dom": "18.2.0",
+		"react-icons": "^5.2.1",
+		"react-router-dom": "6.4.3",
+		"vite": "latest"
+	},
+	"devDependencies": {
+		"@vitejs/plugin-react": "*"
+	}
 }
